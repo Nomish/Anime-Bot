@@ -9,7 +9,7 @@ bot.on("ready", () =>{
 
     //status
     bot.user.setStatus("online")
-
+    ///////////////////////////////
     //game & streaming
     bot.user.setActivity("Watching Anime")
 });
